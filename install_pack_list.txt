@@ -1,0 +1,10 @@
+git
+vim
+axel
+curl
+openssh-server
+make
+automake
+gcc
+tmux
+bash-completion
